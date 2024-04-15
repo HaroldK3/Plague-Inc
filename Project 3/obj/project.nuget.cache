@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Q83pFYPCyBptiBn72SXW8U99TjLrcsqstHZb/GNpQC3b4jSLDQKER4EoybwGDQlcysAUV9C7+nUjQ25CQpEAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qkayl\\Desktop\\Kaylee's Stuff\\Data Structures\\proj 3\\Project_3\\Project 3\\Project 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qkayl\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\qkayl\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
